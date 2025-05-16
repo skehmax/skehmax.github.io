@@ -18,7 +18,7 @@ locale: en-US
 title: "My Awesome Site"
 description: "It really is the best."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: skehmax.github.io
+url: https://skehmax.github.io
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
